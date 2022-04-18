@@ -10,7 +10,7 @@ hello git
 hello world hello dit
 hello world hello dit
 hello world hello dit
-hello world hello dit
-hello world hello dit
-hello world hello dit
+<<<<<<< HEAD
 master
+master hot-fix
+>>>>>>> hot-fix
